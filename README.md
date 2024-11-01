@@ -1,5 +1,8 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchiu21&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchiu21&show_icons=true&theme=gruvbox)
+
+
 <!--
 Here are some ideas to get you started:
 
