@@ -1,6 +1,7 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchiu21&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchiu21&show_icons=true&theme=gruvbox)
+| <a href="https://github.com/jchiu21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jchiu21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jchiu21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchiu21&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 
 <!--
