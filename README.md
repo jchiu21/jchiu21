@@ -1,6 +1,7 @@
 ## Hi, I'm Jamie 👋
 - 📚 2nd Year CS student at Toronto Metropolitan University
-- 💻 Passionate about software engineering (especially back-end development) 
+- 💻 Passionate about software engineering (especially back-end development)
+- 💡 Driven in building innovative solutions and learning new technologies
 - 💼 Seeking 2025 summer internships to gain hands on experience in the industry
 
 ## Currently Learning
