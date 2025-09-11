@@ -26,9 +26,8 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 
-<!--
 ## GitHub Stats
-| <a href="https://github-readme-stats.vercel.app/api?username=jchiu21&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jchiu21&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Jamie's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jchiu21&theme=github_dark&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchiu21&theme=github_dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jchiu21&theme=github_dark&layout=donut"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchiu21&theme=github_dark&layout=donut" /></a>
 
--->
+
+
