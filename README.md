@@ -1,8 +1,9 @@
-## Hi, I'm Jamie 👋
-- 📚 3rd Year CS student at Toronto Metropolitan University
-- 💻 Passionate about backend software development
-- 💡 Driven in building innovative solutions and learning new technologies
 
+<samp>
+aspiring backend dev, 3rd year cs @ tmu
+</samp>
+
+<!--
 ## Currently Learning
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
