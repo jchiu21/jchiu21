@@ -1,6 +1,6 @@
 
 <samp>
-aspiring backend dev, 3rd year cs @ tmu
+backend dev, 3rd year cs @ tmu
 </samp>
 
 <!--
